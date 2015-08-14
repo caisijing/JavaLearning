@@ -15,6 +15,10 @@ public class Animal{
         System.out.println(animal+" is sleep...");
     }
 
+    static void happiness(String animal){
+        System.out.println(animal+" is happiness...");
+    }
+
     public static void main(String[] args){
         System.out.println("This is a class of animal...");
     }
